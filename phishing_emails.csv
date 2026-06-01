@@ -1,0 +1,9 @@
+text,label
+"Verify your account immediately by clicking this link",phishing
+"Congratulations! You won a free iPhone",phishing
+"Update your bank details now",phishing
+"Meeting scheduled for tomorrow at 10 AM",safe
+"Please find the attached report",safe
+"Project submission deadline extended",safe
+"Click here to claim your reward",phishing
+"Team meeting agenda attached",safe
